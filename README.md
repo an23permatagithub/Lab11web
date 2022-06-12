@@ -6,13 +6,13 @@ NIM      : 312010095<br>
 kelas    : TI.20.B.1<br>
 
 ### Berikut ini adalah soal tugas praktikum 11 pertemuan 12<br>
-![Gambar](Gambar/Gambar1.png)<br>
+![Gambar](Gambar/Gamba1.png)<br>
 
 ### Pengerjaan
-1. Buka xampp control lalu kalian klik start dan klik config lalu pilih PHP(php.ini)<br>
-![Screenshot_3.png](Pic/Screenshot_3.png)<br>
-2. Lalu kalian hapus tanda (;) pada bagian extension=intl seperti berikut<br>
-![Screenshot_2.png](Pic/Screenshot_2.png)<br>
+1. Pertama-tama kita Buka dulu xampp controlnya lalu kalian klik start dan klik config lalu pilih PHP(php.ini)<br>
+![Gambar](Gambar/Gambar2.png)<br>
+2. Kemudian kalian hapus tanda (;) pada bagian extension=intl seperti berikut<br>
+![Gambar](Gambar/Gambar3.png)<br>
 3. Jika sudah kalian bisa download CodeIgniter4 atau kalian bisa click disamping [Click Here](https://codeigniter.com/download)<br>
 4. Setelah kalian download, selanjutnya kalian extract dan rename menjadi ci4 seperti dibawah ini<br>
 ![Screenshot_21.png](Pic/Screenshot_21.png)<br>
